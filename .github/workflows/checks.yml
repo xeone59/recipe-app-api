@@ -1,5 +1,5 @@
 ---
-name: Chedks
+name: Checks
 
 on: [push]
 
